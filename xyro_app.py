@@ -3,7 +3,7 @@ Xyro - Final Complete Streamlit App
 Luxurious Purple + Black Theme
 """
 
-import amlit as st
+import streamlit as st
 from ai_brain import AIBrain, SignalDirection
 import datetime
 
